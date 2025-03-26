@@ -47,9 +47,14 @@ El módulo de la **Universidad Nacional de Admisiones y Registro** es el área e
 ---
 
 ## 4. Diccionario de Datos  
-[Incluir tabla o lista de campos, tipos de datos y descripciones]  
+![Diccionario de datos](/diagrams/dictionary1.png)
+![Diccionario de datos](/diagrams/dictionary2.png)
+![Diccionario de datos](/diagrams/dictionary3.png)
+![Diccionario de datos](/diagrams/dictionary4.png)
+![Diccionario de datos](/diagrams/dictionary5.png)
+![Diccionario de datos](/diagrams/dictionary6.png)
 
 ---
 
 ## 5. Matriz de Perfiles de Usuarios vs Tablas  
-[Incluir matriz que relacione perfiles de usuarios con tablas y permisos]  
+![Matriz de perfiles de usuario](/diagrams/matriz.png)

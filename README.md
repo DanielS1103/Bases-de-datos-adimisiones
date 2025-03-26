@@ -42,7 +42,7 @@ El módulo de la **Universidad Nacional de Admisiones y Registro** es el área e
 ---
 
 ## 3. Diagrama Relacional  
-![Diagrama Relacional](/diagrams/relational_diagram.png)
+![Diagrama Relacional](/diagrams/relational_diagram.jpg)
 
 ---
 

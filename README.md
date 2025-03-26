@@ -1,4 +1,4 @@
-# Proyect bases de datos para adimisiones Universidad Nacional
+# Proyecto bases de datos para adimisiones Universidad Nacional
 
 ## 1. Descripción
 

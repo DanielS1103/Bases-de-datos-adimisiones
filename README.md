@@ -48,6 +48,8 @@ El módulo de la **Universidad Nacional de Admisiones y Registro** es el área e
 
 ## 4. Diccionario de Datos  
 ![Diccionario de datos](/diagrams/dictionary1.png)
+
+###
 ![Diccionario de datos](/diagrams/dictionary2.png)
 ![Diccionario de datos](/diagrams/dictionary3.png)
 ![Diccionario de datos](/diagrams/dictionary4.png)

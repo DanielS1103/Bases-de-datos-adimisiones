@@ -1,0 +1,450 @@
+[{
+  "_id": 1,
+  "id_prueba_cine_y_television": 1,
+  "id_convocatoria": 45,
+  "id_solicitud_admision": 27,
+  "resultado_prueba_cine_y_television": 23,
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 2,
+  "id_prueba_cine_y_television": 2,
+  "id_convocatoria": 37,
+  "id_solicitud_admision": 36,
+  "resultado_prueba_cine_y_television": 26,
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": 3,
+  "id_prueba_cine_y_television": 3,
+  "id_convocatoria": 4,
+  "id_solicitud_admision": 2,
+  "resultado_prueba_cine_y_television": 24,
+  "id_lugar_prueba": 5,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": 4,
+  "id_prueba_cine_y_television": 4,
+  "id_convocatoria": 30,
+  "id_solicitud_admision": 38,
+  "resultado_prueba_cine_y_television": 22,
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 5,
+  "id_prueba_cine_y_television": 5,
+  "id_convocatoria": 31,
+  "id_solicitud_admision": 2,
+  "resultado_prueba_cine_y_television": 19,
+  "id_lugar_prueba": 12,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": 6,
+  "id_prueba_cine_y_television": 6,
+  "id_convocatoria": 7,
+  "id_solicitud_admision": 22,
+  "resultado_prueba_cine_y_television": 24,
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 7,
+  "id_prueba_cine_y_television": 7,
+  "id_convocatoria": 9,
+  "id_solicitud_admision": 8,
+  "resultado_prueba_cine_y_television": 25,
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 8,
+  "id_prueba_cine_y_television": 8,
+  "id_convocatoria": 16,
+  "id_solicitud_admision": 9,
+  "resultado_prueba_cine_y_television": 5,
+  "id_lugar_prueba": 7,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 9,
+  "id_prueba_cine_y_television": 9,
+  "id_convocatoria": 27,
+  "id_solicitud_admision": 20,
+  "resultado_prueba_cine_y_television": 8,
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 10,
+  "id_prueba_cine_y_television": 10,
+  "id_convocatoria": 42,
+  "id_solicitud_admision": 25,
+  "resultado_prueba_cine_y_television": 19,
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 11,
+  "id_prueba_cine_y_television": 11,
+  "id_convocatoria": 38,
+  "id_solicitud_admision": 41,
+  "resultado_prueba_cine_y_television": 22,
+  "id_lugar_prueba": 13,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 12,
+  "id_prueba_cine_y_television": 12,
+  "id_convocatoria": 48,
+  "id_solicitud_admision": 13,
+  "resultado_prueba_cine_y_television": 46,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 13,
+  "id_prueba_cine_y_television": 13,
+  "id_convocatoria": 21,
+  "id_solicitud_admision": 43,
+  "resultado_prueba_cine_y_television": 7,
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 14,
+  "id_prueba_cine_y_television": 14,
+  "id_convocatoria": 39,
+  "id_solicitud_admision": 23,
+  "resultado_prueba_cine_y_television": 37,
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 15,
+  "id_prueba_cine_y_television": 15,
+  "id_convocatoria": 16,
+  "id_solicitud_admision": 32,
+  "resultado_prueba_cine_y_television": 28,
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 16,
+  "id_prueba_cine_y_television": 16,
+  "id_convocatoria": 27,
+  "id_solicitud_admision": 33,
+  "resultado_prueba_cine_y_television": 21,
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 17,
+  "id_prueba_cine_y_television": 17,
+  "id_convocatoria": 40,
+  "id_solicitud_admision": 42,
+  "resultado_prueba_cine_y_television": 0,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 18,
+  "id_prueba_cine_y_television": 18,
+  "id_convocatoria": 24,
+  "id_solicitud_admision": 20,
+  "resultado_prueba_cine_y_television": 17,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 19,
+  "id_prueba_cine_y_television": 19,
+  "id_convocatoria": 2,
+  "id_solicitud_admision": 9,
+  "resultado_prueba_cine_y_television": 32,
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 20,
+  "id_prueba_cine_y_television": 20,
+  "id_convocatoria": 20,
+  "id_solicitud_admision": 34,
+  "resultado_prueba_cine_y_television": 38,
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 21,
+  "id_prueba_cine_y_television": 21,
+  "id_convocatoria": 37,
+  "id_solicitud_admision": 41,
+  "resultado_prueba_cine_y_television": 36,
+  "id_lugar_prueba": 14,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": 22,
+  "id_prueba_cine_y_television": 22,
+  "id_convocatoria": 6,
+  "id_solicitud_admision": 44,
+  "resultado_prueba_cine_y_television": 22,
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 23,
+  "id_prueba_cine_y_television": 23,
+  "id_convocatoria": 21,
+  "id_solicitud_admision": 3,
+  "resultado_prueba_cine_y_television": 7,
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 24,
+  "id_prueba_cine_y_television": 24,
+  "id_convocatoria": 18,
+  "id_solicitud_admision": 38,
+  "resultado_prueba_cine_y_television": 11,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 25,
+  "id_prueba_cine_y_television": 25,
+  "id_convocatoria": 4,
+  "id_solicitud_admision": 50,
+  "resultado_prueba_cine_y_television": 21,
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": 26,
+  "id_prueba_cine_y_television": 26,
+  "id_convocatoria": 7,
+  "id_solicitud_admision": 8,
+  "resultado_prueba_cine_y_television": 40,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 27,
+  "id_prueba_cine_y_television": 27,
+  "id_convocatoria": 42,
+  "id_solicitud_admision": 15,
+  "resultado_prueba_cine_y_television": 6,
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 28,
+  "id_prueba_cine_y_television": 28,
+  "id_convocatoria": 37,
+  "id_solicitud_admision": 10,
+  "resultado_prueba_cine_y_television": 22,
+  "id_lugar_prueba": 2,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 29,
+  "id_prueba_cine_y_television": 29,
+  "id_convocatoria": 28,
+  "id_solicitud_admision": 33,
+  "resultado_prueba_cine_y_television": 49,
+  "id_lugar_prueba": 13,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 30,
+  "id_prueba_cine_y_television": 30,
+  "id_convocatoria": 3,
+  "id_solicitud_admision": 25,
+  "resultado_prueba_cine_y_television": 30,
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 31,
+  "id_prueba_cine_y_television": 31,
+  "id_convocatoria": 16,
+  "id_solicitud_admision": 10,
+  "resultado_prueba_cine_y_television": 24,
+  "id_lugar_prueba": 5,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 32,
+  "id_prueba_cine_y_television": 32,
+  "id_convocatoria": 27,
+  "id_solicitud_admision": 19,
+  "resultado_prueba_cine_y_television": 23,
+  "id_lugar_prueba": 7,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": 33,
+  "id_prueba_cine_y_television": 33,
+  "id_convocatoria": 20,
+  "id_solicitud_admision": 2,
+  "resultado_prueba_cine_y_television": 26,
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 34,
+  "id_prueba_cine_y_television": 34,
+  "id_convocatoria": 23,
+  "id_solicitud_admision": 38,
+  "resultado_prueba_cine_y_television": 20,
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 35,
+  "id_prueba_cine_y_television": 35,
+  "id_convocatoria": 43,
+  "id_solicitud_admision": 17,
+  "resultado_prueba_cine_y_television": 48,
+  "id_lugar_prueba": 12,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": 36,
+  "id_prueba_cine_y_television": 36,
+  "id_convocatoria": 35,
+  "id_solicitud_admision": 24,
+  "resultado_prueba_cine_y_television": 4,
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 37,
+  "id_prueba_cine_y_television": 37,
+  "id_convocatoria": 49,
+  "id_solicitud_admision": 48,
+  "resultado_prueba_cine_y_television": 28,
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 38,
+  "id_prueba_cine_y_television": 38,
+  "id_convocatoria": 36,
+  "id_solicitud_admision": 3,
+  "resultado_prueba_cine_y_television": 33,
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 39,
+  "id_prueba_cine_y_television": 39,
+  "id_convocatoria": 3,
+  "id_solicitud_admision": 42,
+  "resultado_prueba_cine_y_television": 14,
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 40,
+  "id_prueba_cine_y_television": 40,
+  "id_convocatoria": 43,
+  "id_solicitud_admision": 37,
+  "resultado_prueba_cine_y_television": 35,
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 41,
+  "id_prueba_cine_y_television": 41,
+  "id_convocatoria": 44,
+  "id_solicitud_admision": 9,
+  "resultado_prueba_cine_y_television": 2,
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 42,
+  "id_prueba_cine_y_television": 42,
+  "id_convocatoria": 28,
+  "id_solicitud_admision": 40,
+  "resultado_prueba_cine_y_television": 5,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": 43,
+  "id_prueba_cine_y_television": 43,
+  "id_convocatoria": 29,
+  "id_solicitud_admision": 17,
+  "resultado_prueba_cine_y_television": 50,
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 44,
+  "id_prueba_cine_y_television": 44,
+  "id_convocatoria": 41,
+  "id_solicitud_admision": 50,
+  "resultado_prueba_cine_y_television": 18,
+  "id_lugar_prueba": 1,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": 45,
+  "id_prueba_cine_y_television": 45,
+  "id_convocatoria": 42,
+  "id_solicitud_admision": 25,
+  "resultado_prueba_cine_y_television": 42,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 46,
+  "id_prueba_cine_y_television": 46,
+  "id_convocatoria": 48,
+  "id_solicitud_admision": 39,
+  "resultado_prueba_cine_y_television": 9,
+  "id_lugar_prueba": 12,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": 47,
+  "id_prueba_cine_y_television": 47,
+  "id_convocatoria": 36,
+  "id_solicitud_admision": 28,
+  "resultado_prueba_cine_y_television": 3,
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 48,
+  "id_prueba_cine_y_television": 48,
+  "id_convocatoria": 9,
+  "id_solicitud_admision": 1,
+  "resultado_prueba_cine_y_television": 45,
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 49,
+  "id_prueba_cine_y_television": 49,
+  "id_convocatoria": 41,
+  "id_solicitud_admision": 35,
+  "resultado_prueba_cine_y_television": 2,
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": 50,
+  "id_prueba_cine_y_television": 50,
+  "id_convocatoria": 10,
+  "id_solicitud_admision": 41,
+  "resultado_prueba_cine_y_television": 32,
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+}]

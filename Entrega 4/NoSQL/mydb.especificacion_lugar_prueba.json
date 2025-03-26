@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "id_lugar_prueba": 1,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 1,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 2,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 2,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 2,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 2,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 3,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 3,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 3,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 3,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 4,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 4,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 4,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 4,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 4,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 5,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 5,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 5,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 5,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 5,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 5,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 5,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 5,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 5,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 5,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 6,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 6,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 6,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 6,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 6,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 6,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 7,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 7,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 7,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 7,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 7,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 7,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 7,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 7,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 7,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 7,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 8,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 8,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 8,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 8,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 8,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 8,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 9,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 9,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 9,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 9,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 9,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 9,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 10,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 10,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 10,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 10,
+    "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+  },
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Calle del Evento, Centro de la Ciudad"
+},
+{
+  "_id": {
+    "id_lugar_prueba": 10,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 10,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 11,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 11,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 11,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 11,
+    "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+  },
+  "id_lugar_prueba": 11,
+  "descripcion_especifica_lugar_prueba": "Carretera Costera, Frente a la Playa."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 12,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 12,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 12,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 12,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 12,
+    "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+  },
+  "id_lugar_prueba": 12,
+  "descripcion_especifica_lugar_prueba": "Calle de la Educación, Barrio Residencial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 13,
+    "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+  },
+  "id_lugar_prueba": 13,
+  "descripcion_especifica_lugar_prueba": "Avenida Principal, Ciudad Universitaria."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 13,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 13,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+},
+{
+  "_id": {
+    "id_lugar_prueba": 14,
+    "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+  },
+  "id_lugar_prueba": 14,
+  "descripcion_especifica_lugar_prueba": "Avenida Tecnológica, Zona Industrial."
+}]

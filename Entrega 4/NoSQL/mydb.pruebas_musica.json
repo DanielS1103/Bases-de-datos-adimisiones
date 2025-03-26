@@ -1,0 +1,1100 @@
+[{
+  "_id": 1,
+  "id_pruebas_musica": 1,
+  "id_convocatoria": 47,
+  "id_solicitud_admision": 23,
+  "resultado_prueba_1": 19,
+  "resultado_prueba_2": 29,
+  "resultado_prueba_3": 0,
+  "id_lugar_prueba_1": 10,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-02T16:29:43.000Z"
+  },
+  "id_lugar_prueba_2": null,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:02:17.000Z"
+  },
+  "id_lugar_prueba_3": 11,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "19/07/2016"
+},
+{
+  "_id": 2,
+  "id_pruebas_musica": 2,
+  "id_convocatoria": 41,
+  "id_solicitud_admision": 41,
+  "resultado_prueba_1": 16,
+  "resultado_prueba_2": 13,
+  "resultado_prueba_3": 0,
+  "id_lugar_prueba_1": 6,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2017-12-29T11:16:35.000Z"
+  },
+  "id_lugar_prueba_2": 8,
+  "descripcion_especifica_lugar_prueba_2": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2017-03-31T13:29:55.000Z"
+  },
+  "id_lugar_prueba_3": 9,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "14/04/2019"
+},
+{
+  "_id": 3,
+  "id_pruebas_musica": 3,
+  "id_convocatoria": 20,
+  "id_solicitud_admision": 31,
+  "resultado_prueba_1": 50,
+  "resultado_prueba_2": 40,
+  "resultado_prueba_3": 46,
+  "id_lugar_prueba_1": 12,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2019-06-13T17:02:06.000Z"
+  },
+  "id_lugar_prueba_2": 14,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:14:02.000Z"
+  },
+  "id_lugar_prueba_3": null,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_3": "18/03/2016"
+},
+{
+  "_id": 4,
+  "id_pruebas_musica": 4,
+  "id_convocatoria": 40,
+  "id_solicitud_admision": 16,
+  "resultado_prueba_1": 44,
+  "resultado_prueba_2": 21,
+  "resultado_prueba_3": 10,
+  "id_lugar_prueba_1": 5,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:00:45.000Z"
+  },
+  "id_lugar_prueba_2": 6,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2018-03-05T04:21:50.000Z"
+  },
+  "id_lugar_prueba_3": 10,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_3": "23/09/2019"
+},
+{
+  "_id": 5,
+  "id_pruebas_musica": 5,
+  "id_convocatoria": 36,
+  "id_solicitud_admision": 18,
+  "resultado_prueba_1": 49,
+  "resultado_prueba_2": 38,
+  "resultado_prueba_3": 23,
+  "id_lugar_prueba_1": 7,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2017-02-12T01:14:21.000Z"
+  },
+  "id_lugar_prueba_2": 4,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:00:08.000Z"
+  },
+  "id_lugar_prueba_3": 7,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": null
+},
+{
+  "_id": 6,
+  "id_pruebas_musica": 6,
+  "id_convocatoria": 7,
+  "id_solicitud_admision": 1,
+  "resultado_prueba_1": 22,
+  "resultado_prueba_2": 5,
+  "resultado_prueba_3": 29,
+  "id_lugar_prueba_1": 6,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2021-10-12T20:58:06.000Z"
+  },
+  "id_lugar_prueba_2": 10,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2021-07-16T11:39:08.000Z"
+  },
+  "id_lugar_prueba_3": null,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "10/02/2018"
+},
+{
+  "_id": 7,
+  "id_pruebas_musica": 7,
+  "id_convocatoria": 22,
+  "id_solicitud_admision": 9,
+  "resultado_prueba_1": 32,
+  "resultado_prueba_2": 12,
+  "resultado_prueba_3": 1,
+  "id_lugar_prueba_1": 5,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-10-26T19:42:57.000Z"
+  },
+  "id_lugar_prueba_2": 3,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:00:06.000Z"
+  },
+  "id_lugar_prueba_3": null,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "27/12/2017"
+},
+{
+  "_id": 8,
+  "id_pruebas_musica": 8,
+  "id_convocatoria": 14,
+  "id_solicitud_admision": 24,
+  "resultado_prueba_1": 41,
+  "resultado_prueba_2": 7,
+  "resultado_prueba_3": 47,
+  "id_lugar_prueba_1": 9,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2021-07-10T02:56:22.000Z"
+  },
+  "id_lugar_prueba_2": 8,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2022-03-20T22:48:21.000Z"
+  },
+  "id_lugar_prueba_3": 9,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_3": null
+},
+{
+  "_id": 9,
+  "id_pruebas_musica": 9,
+  "id_convocatoria": 2,
+  "id_solicitud_admision": 38,
+  "resultado_prueba_1": 34,
+  "resultado_prueba_2": 34,
+  "resultado_prueba_3": 2,
+  "id_lugar_prueba_1": 6,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:03:39.000Z"
+  },
+  "id_lugar_prueba_2": 5,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:00:08.000Z"
+  },
+  "id_lugar_prueba_3": null,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "04/06/2015"
+},
+{
+  "_id": 10,
+  "id_pruebas_musica": 10,
+  "id_convocatoria": 15,
+  "id_solicitud_admision": 38,
+  "resultado_prueba_1": 2,
+  "resultado_prueba_2": 15,
+  "resultado_prueba_3": 2,
+  "id_lugar_prueba_1": 9,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-04-28T08:45:56.000Z"
+  },
+  "id_lugar_prueba_2": 3,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:09:46.000Z"
+  },
+  "id_lugar_prueba_3": 6,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "07/09/2018"
+},
+{
+  "_id": 11,
+  "id_pruebas_musica": 11,
+  "id_convocatoria": 37,
+  "id_solicitud_admision": 38,
+  "resultado_prueba_1": 0,
+  "resultado_prueba_2": 3,
+  "resultado_prueba_3": 9,
+  "id_lugar_prueba_1": 13,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2019-02-28T02:31:10.000Z"
+  },
+  "id_lugar_prueba_2": 14,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2022-07-07T09:21:10.000Z"
+  },
+  "id_lugar_prueba_3": null,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "04/06/2015"
+},
+{
+  "_id": 12,
+  "id_pruebas_musica": 12,
+  "id_convocatoria": 41,
+  "id_solicitud_admision": 11,
+  "resultado_prueba_1": 34,
+  "resultado_prueba_2": 30,
+  "resultado_prueba_3": 23,
+  "id_lugar_prueba_1": 9,
+  "descripcion_especifica_lugar_prueba_1": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-11-21T05:54:50.000Z"
+  },
+  "id_lugar_prueba_2": 10,
+  "descripcion_especifica_lugar_prueba_2": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2019-01-19T05:55:27.000Z"
+  },
+  "id_lugar_prueba_3": 4,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "19/07/2016"
+},
+{
+  "_id": 13,
+  "id_pruebas_musica": 13,
+  "id_convocatoria": 40,
+  "id_solicitud_admision": 6,
+  "resultado_prueba_1": 48,
+  "resultado_prueba_2": 32,
+  "resultado_prueba_3": 31,
+  "id_lugar_prueba_1": 12,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2022-03-23T19:16:11.000Z"
+  },
+  "id_lugar_prueba_2": 8,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T01:26:34.000Z"
+  },
+  "id_lugar_prueba_3": 5,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "30/01/2020"
+},
+{
+  "_id": 14,
+  "id_pruebas_musica": 14,
+  "id_convocatoria": 43,
+  "id_solicitud_admision": 10,
+  "resultado_prueba_1": 39,
+  "resultado_prueba_2": 23,
+  "resultado_prueba_3": 28,
+  "id_lugar_prueba_1": 11,
+  "descripcion_especifica_lugar_prueba_1": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T01:30:10.000Z"
+  },
+  "id_lugar_prueba_2": 6,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2023-02-27T22:44:45.000Z"
+  },
+  "id_lugar_prueba_3": 10,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "13/11/2022"
+},
+{
+  "_id": 15,
+  "id_pruebas_musica": 15,
+  "id_convocatoria": 41,
+  "id_solicitud_admision": 28,
+  "resultado_prueba_1": 22,
+  "resultado_prueba_2": 23,
+  "resultado_prueba_3": 34,
+  "id_lugar_prueba_1": 11,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2021-12-16T16:43:38.000Z"
+  },
+  "id_lugar_prueba_2": null,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2020-09-18T08:03:55.000Z"
+  },
+  "id_lugar_prueba_3": 12,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "03/07/2017"
+},
+{
+  "_id": 16,
+  "id_pruebas_musica": 16,
+  "id_convocatoria": 50,
+  "id_solicitud_admision": 13,
+  "resultado_prueba_1": 2,
+  "resultado_prueba_2": 32,
+  "resultado_prueba_3": 40,
+  "id_lugar_prueba_1": 8,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-03-28T14:18:11.000Z"
+  },
+  "id_lugar_prueba_2": 13,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T02:28:53.000Z"
+  },
+  "id_lugar_prueba_3": 8,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "16/02/2021"
+},
+{
+  "_id": 17,
+  "id_pruebas_musica": 17,
+  "id_convocatoria": 37,
+  "id_solicitud_admision": 42,
+  "resultado_prueba_1": 32,
+  "resultado_prueba_2": 38,
+  "resultado_prueba_3": 49,
+  "id_lugar_prueba_1": 7,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2022-11-30T12:08:23.000Z"
+  },
+  "id_lugar_prueba_2": 10,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2021-08-20T08:50:04.000Z"
+  },
+  "id_lugar_prueba_3": 7,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_3": "21/05/2015"
+},
+{
+  "_id": 18,
+  "id_pruebas_musica": 18,
+  "id_convocatoria": 9,
+  "id_solicitud_admision": 28,
+  "resultado_prueba_1": 1,
+  "resultado_prueba_2": 16,
+  "resultado_prueba_3": 7,
+  "id_lugar_prueba_1": 13,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2018-03-15T19:59:52.000Z"
+  },
+  "id_lugar_prueba_2": 6,
+  "descripcion_especifica_lugar_prueba_2": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2021-05-07T19:21:48.000Z"
+  },
+  "id_lugar_prueba_3": 3,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "16/02/2021"
+},
+{
+  "_id": 19,
+  "id_pruebas_musica": 19,
+  "id_convocatoria": 49,
+  "id_solicitud_admision": 43,
+  "resultado_prueba_1": 0,
+  "resultado_prueba_2": 22,
+  "resultado_prueba_3": 32,
+  "id_lugar_prueba_1": 9,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-08-04T19:10:31.000Z"
+  },
+  "id_lugar_prueba_2": 8,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2023-01-18T17:51:09.000Z"
+  },
+  "id_lugar_prueba_3": 9,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "10/02/2018"
+},
+{
+  "_id": 20,
+  "id_pruebas_musica": 20,
+  "id_convocatoria": 23,
+  "id_solicitud_admision": 44,
+  "resultado_prueba_1": 32,
+  "resultado_prueba_2": 44,
+  "resultado_prueba_3": 16,
+  "id_lugar_prueba_1": 8,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2016-12-02T09:48:19.000Z"
+  },
+  "id_lugar_prueba_2": null,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2021-05-22T18:45:14.000Z"
+  },
+  "id_lugar_prueba_3": 12,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "29/06/2019"
+},
+{
+  "_id": 21,
+  "id_pruebas_musica": 21,
+  "id_convocatoria": 8,
+  "id_solicitud_admision": 36,
+  "resultado_prueba_1": 6,
+  "resultado_prueba_2": 26,
+  "resultado_prueba_3": 29,
+  "id_lugar_prueba_1": 2,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2019-08-19T09:56:14.000Z"
+  },
+  "id_lugar_prueba_2": 1,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2017-01-23T12:35:08.000Z"
+  },
+  "id_lugar_prueba_3": 10,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "03/07/2017"
+},
+{
+  "_id": 22,
+  "id_pruebas_musica": 22,
+  "id_convocatoria": 19,
+  "id_solicitud_admision": 31,
+  "resultado_prueba_1": 14,
+  "resultado_prueba_2": 25,
+  "resultado_prueba_3": 36,
+  "id_lugar_prueba_1": 8,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-03-23T11:25:20.000Z"
+  },
+  "id_lugar_prueba_2": 12,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2023-04-30T21:59:13.000Z"
+  },
+  "id_lugar_prueba_3": 3,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "21/05/2015"
+},
+{
+  "_id": 23,
+  "id_pruebas_musica": 23,
+  "id_convocatoria": 40,
+  "id_solicitud_admision": 37,
+  "resultado_prueba_1": 20,
+  "resultado_prueba_2": 45,
+  "resultado_prueba_3": 9,
+  "id_lugar_prueba_1": 6,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:00:09.000Z"
+  },
+  "id_lugar_prueba_2": 8,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2019-06-14T00:12:47.000Z"
+  },
+  "id_lugar_prueba_3": 10,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "21/05/2015"
+},
+{
+  "_id": 24,
+  "id_pruebas_musica": 24,
+  "id_convocatoria": 46,
+  "id_solicitud_admision": 50,
+  "resultado_prueba_1": 40,
+  "resultado_prueba_2": 25,
+  "resultado_prueba_3": 44,
+  "id_lugar_prueba_1": 4,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2021-10-02T19:20:07.000Z"
+  },
+  "id_lugar_prueba_2": 3,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:14:51.000Z"
+  },
+  "id_lugar_prueba_3": 12,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "08/10/2023"
+},
+{
+  "_id": 25,
+  "id_pruebas_musica": 25,
+  "id_convocatoria": 28,
+  "id_solicitud_admision": 34,
+  "resultado_prueba_1": 50,
+  "resultado_prueba_2": 46,
+  "resultado_prueba_3": null,
+  "id_lugar_prueba_1": 7,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2019-09-20T19:24:23.000Z"
+  },
+  "id_lugar_prueba_2": null,
+  "descripcion_especifica_lugar_prueba_2": null,
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2018-06-06T11:03:03.000Z"
+  },
+  "id_lugar_prueba_3": 10,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "14/04/2019"
+},
+{
+  "_id": 26,
+  "id_pruebas_musica": 26,
+  "id_convocatoria": 42,
+  "id_solicitud_admision": 23,
+  "resultado_prueba_1": 31,
+  "resultado_prueba_2": 39,
+  "resultado_prueba_3": 4,
+  "id_lugar_prueba_1": 11,
+  "descripcion_especifica_lugar_prueba_1": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T20:51:54.000Z"
+  },
+  "id_lugar_prueba_2": 13,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:12:49.000Z"
+  },
+  "id_lugar_prueba_3": 3,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "08/10/2023"
+},
+{
+  "_id": 27,
+  "id_pruebas_musica": 27,
+  "id_convocatoria": 47,
+  "id_solicitud_admision": 28,
+  "resultado_prueba_1": 1,
+  "resultado_prueba_2": 5,
+  "resultado_prueba_3": 27,
+  "id_lugar_prueba_1": 10,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2018-08-13T21:35:15.000Z"
+  },
+  "id_lugar_prueba_2": 8,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:09:00.000Z"
+  },
+  "id_lugar_prueba_3": 6,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "04/06/2015"
+},
+{
+  "_id": 28,
+  "id_pruebas_musica": 28,
+  "id_convocatoria": 23,
+  "id_solicitud_admision": 14,
+  "resultado_prueba_1": 9,
+  "resultado_prueba_2": 6,
+  "resultado_prueba_3": 44,
+  "id_lugar_prueba_1": 4,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-08-24T15:38:47.000Z"
+  },
+  "id_lugar_prueba_2": 7,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2020-02-05T12:19:20.000Z"
+  },
+  "id_lugar_prueba_3": 6,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": null
+},
+{
+  "_id": 29,
+  "id_pruebas_musica": 29,
+  "id_convocatoria": 31,
+  "id_solicitud_admision": 17,
+  "resultado_prueba_1": 46,
+  "resultado_prueba_2": 26,
+  "resultado_prueba_3": 3,
+  "id_lugar_prueba_1": 10,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2022-09-28T22:54:18.000Z"
+  },
+  "id_lugar_prueba_2": 6,
+  "descripcion_especifica_lugar_prueba_2": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T01:06:48.000Z"
+  },
+  "id_lugar_prueba_3": 3,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "19/07/2016"
+},
+{
+  "_id": 30,
+  "id_pruebas_musica": 30,
+  "id_convocatoria": 23,
+  "id_solicitud_admision": 37,
+  "resultado_prueba_1": 23,
+  "resultado_prueba_2": 6,
+  "resultado_prueba_3": 11,
+  "id_lugar_prueba_1": 11,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-12-05T09:57:27.000Z"
+  },
+  "id_lugar_prueba_2": 7,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2019-03-26T16:28:47.000Z"
+  },
+  "id_lugar_prueba_3": 9,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "28/09/2015"
+},
+{
+  "_id": 31,
+  "id_pruebas_musica": 31,
+  "id_convocatoria": 41,
+  "id_solicitud_admision": 5,
+  "resultado_prueba_1": 27,
+  "resultado_prueba_2": 5,
+  "resultado_prueba_3": 0,
+  "id_lugar_prueba_1": 8,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T02:37:11.000Z"
+  },
+  "id_lugar_prueba_2": 11,
+  "descripcion_especifica_lugar_prueba_2": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2020-09-19T06:28:56.000Z"
+  },
+  "id_lugar_prueba_3": 5,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": null
+},
+{
+  "_id": 32,
+  "id_pruebas_musica": 32,
+  "id_convocatoria": 4,
+  "id_solicitud_admision": 33,
+  "resultado_prueba_1": 0,
+  "resultado_prueba_2": null,
+  "resultado_prueba_3": 16,
+  "id_lugar_prueba_1": 6,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2019-07-27T08:33:08.000Z"
+  },
+  "id_lugar_prueba_2": 7,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2017-09-28T23:53:52.000Z"
+  },
+  "id_lugar_prueba_3": 11,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "16/02/2021"
+},
+{
+  "_id": 33,
+  "id_pruebas_musica": 33,
+  "id_convocatoria": 26,
+  "id_solicitud_admision": 47,
+  "resultado_prueba_1": 44,
+  "resultado_prueba_2": 5,
+  "resultado_prueba_3": 21,
+  "id_lugar_prueba_1": 9,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:00:53.000Z"
+  },
+  "id_lugar_prueba_2": 5,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2017-11-10T15:11:58.000Z"
+  },
+  "id_lugar_prueba_3": 4,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": null
+},
+{
+  "_id": 34,
+  "id_pruebas_musica": 34,
+  "id_convocatoria": 8,
+  "id_solicitud_admision": 18,
+  "resultado_prueba_1": 44,
+  "resultado_prueba_2": 9,
+  "resultado_prueba_3": 17,
+  "id_lugar_prueba_1": 10,
+  "descripcion_especifica_lugar_prueba_1": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:03:19.000Z"
+  },
+  "id_lugar_prueba_2": 12,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2018-12-07T05:29:12.000Z"
+  },
+  "id_lugar_prueba_3": 6,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "03/07/2017"
+},
+{
+  "_id": 35,
+  "id_pruebas_musica": 35,
+  "id_convocatoria": 20,
+  "id_solicitud_admision": 37,
+  "resultado_prueba_1": 11,
+  "resultado_prueba_2": 37,
+  "resultado_prueba_3": 49,
+  "id_lugar_prueba_1": 11,
+  "descripcion_especifica_lugar_prueba_1": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2017-02-15T07:33:08.000Z"
+  },
+  "id_lugar_prueba_2": 12,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:00:06.000Z"
+  },
+  "id_lugar_prueba_3": 9,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_3": "25/08/2017"
+},
+{
+  "_id": 36,
+  "id_pruebas_musica": 36,
+  "id_convocatoria": 29,
+  "id_solicitud_admision": 5,
+  "resultado_prueba_1": 32,
+  "resultado_prueba_2": 0,
+  "resultado_prueba_3": 25,
+  "id_lugar_prueba_1": 10,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2019-08-11T23:04:48.000Z"
+  },
+  "id_lugar_prueba_2": 11,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2017-12-02T08:07:39.000Z"
+  },
+  "id_lugar_prueba_3": 9,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_3": "04/06/2015"
+},
+{
+  "_id": 37,
+  "id_pruebas_musica": 37,
+  "id_convocatoria": 20,
+  "id_solicitud_admision": 50,
+  "resultado_prueba_1": 23,
+  "resultado_prueba_2": 22,
+  "resultado_prueba_3": 17,
+  "id_lugar_prueba_1": 11,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2023-05-14T05:24:35.000Z"
+  },
+  "id_lugar_prueba_2": 3,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2016-03-07T14:12:02.000Z"
+  },
+  "id_lugar_prueba_3": 4,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "27/12/2017"
+},
+{
+  "_id": 38,
+  "id_pruebas_musica": 38,
+  "id_convocatoria": 23,
+  "id_solicitud_admision": 36,
+  "resultado_prueba_1": 19,
+  "resultado_prueba_2": 27,
+  "resultado_prueba_3": 1,
+  "id_lugar_prueba_1": 6,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2018-08-14T16:05:00.000Z"
+  },
+  "id_lugar_prueba_2": 4,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:00:01.000Z"
+  },
+  "id_lugar_prueba_3": 12,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "08/10/2023"
+},
+{
+  "_id": 39,
+  "id_pruebas_musica": 39,
+  "id_convocatoria": 35,
+  "id_solicitud_admision": 45,
+  "resultado_prueba_1": 20,
+  "resultado_prueba_2": 0,
+  "resultado_prueba_3": 15,
+  "id_lugar_prueba_1": 3,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-11-16T03:23:51.000Z"
+  },
+  "id_lugar_prueba_2": 5,
+  "descripcion_especifica_lugar_prueba_2": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2017-10-12T17:04:03.000Z"
+  },
+  "id_lugar_prueba_3": 11,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "03/07/2017"
+},
+{
+  "_id": 40,
+  "id_pruebas_musica": 40,
+  "id_convocatoria": 23,
+  "id_solicitud_admision": 37,
+  "resultado_prueba_1": 48,
+  "resultado_prueba_2": 2,
+  "resultado_prueba_3": 17,
+  "id_lugar_prueba_1": 8,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2021-11-04T00:32:58.000Z"
+  },
+  "id_lugar_prueba_2": 7,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:16:28.000Z"
+  },
+  "id_lugar_prueba_3": 4,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "08/10/2023"
+},
+{
+  "_id": 41,
+  "id_pruebas_musica": 41,
+  "id_convocatoria": 11,
+  "id_solicitud_admision": 30,
+  "resultado_prueba_1": 13,
+  "resultado_prueba_2": 34,
+  "resultado_prueba_3": 2,
+  "id_lugar_prueba_1": 5,
+  "descripcion_especifica_lugar_prueba_1": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2019-05-23T08:37:05.000Z"
+  },
+  "id_lugar_prueba_2": 9,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2020-05-13T06:34:30.000Z"
+  },
+  "id_lugar_prueba_3": 12,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_3": "27/12/2017"
+},
+{
+  "_id": 42,
+  "id_pruebas_musica": 42,
+  "id_convocatoria": 39,
+  "id_solicitud_admision": 50,
+  "resultado_prueba_1": 44,
+  "resultado_prueba_2": 50,
+  "resultado_prueba_3": 37,
+  "id_lugar_prueba_1": 13,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-04-04T00:38:24.000Z"
+  },
+  "id_lugar_prueba_2": 3,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:09:25.000Z"
+  },
+  "id_lugar_prueba_3": 4,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "30/01/2020"
+},
+{
+  "_id": 43,
+  "id_pruebas_musica": 43,
+  "id_convocatoria": 27,
+  "id_solicitud_admision": 20,
+  "resultado_prueba_1": 30,
+  "resultado_prueba_2": 2,
+  "resultado_prueba_3": 47,
+  "id_lugar_prueba_1": 12,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:01:38.000Z"
+  },
+  "id_lugar_prueba_2": 3,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2022-08-19T10:26:15.000Z"
+  },
+  "id_lugar_prueba_3": 13,
+  "descripcion_especifica_lugar_prueba_3": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_3": "25/08/2017"
+},
+{
+  "_id": 44,
+  "id_pruebas_musica": 44,
+  "id_convocatoria": 21,
+  "id_solicitud_admision": 1,
+  "resultado_prueba_1": 23,
+  "resultado_prueba_2": 21,
+  "resultado_prueba_3": 25,
+  "id_lugar_prueba_1": 5,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2018-09-26T19:40:58.000Z"
+  },
+  "id_lugar_prueba_2": 13,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2021-11-06T03:47:39.000Z"
+  },
+  "id_lugar_prueba_3": 8,
+  "descripcion_especifica_lugar_prueba_3": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_3": "07/09/2018"
+},
+{
+  "_id": 45,
+  "id_pruebas_musica": 45,
+  "id_convocatoria": 35,
+  "id_solicitud_admision": 3,
+  "resultado_prueba_1": 16,
+  "resultado_prueba_2": 50,
+  "resultado_prueba_3": 45,
+  "id_lugar_prueba_1": 8,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-03-09T05:04:05.000Z"
+  },
+  "id_lugar_prueba_2": 5,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Principal, Ciudad Universitaria.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T01:54:52.000Z"
+  },
+  "id_lugar_prueba_3": 10,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "14/04/2019"
+},
+{
+  "_id": 46,
+  "id_pruebas_musica": 46,
+  "id_convocatoria": 37,
+  "id_solicitud_admision": 36,
+  "resultado_prueba_1": 20,
+  "resultado_prueba_2": 7,
+  "resultado_prueba_3": 26,
+  "id_lugar_prueba_1": 7,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2017-05-31T04:26:08.000Z"
+  },
+  "id_lugar_prueba_2": 4,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-09-11T11:01:56.000Z"
+  },
+  "id_lugar_prueba_3": 5,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "08/10/2023"
+},
+{
+  "_id": 47,
+  "id_pruebas_musica": 47,
+  "id_convocatoria": 19,
+  "id_solicitud_admision": 48,
+  "resultado_prueba_1": 38,
+  "resultado_prueba_2": 26,
+  "resultado_prueba_3": 25,
+  "id_lugar_prueba_1": 3,
+  "descripcion_especifica_lugar_prueba_1": "Carretera Costera, Frente a la Playa.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2020-12-21T16:47:57.000Z"
+  },
+  "id_lugar_prueba_2": 11,
+  "descripcion_especifica_lugar_prueba_2": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2022-05-27T09:37:36.000Z"
+  },
+  "id_lugar_prueba_3": 5,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "13/11/2022"
+},
+{
+  "_id": 48,
+  "id_pruebas_musica": 48,
+  "id_convocatoria": 39,
+  "id_solicitud_admision": 28,
+  "resultado_prueba_1": 25,
+  "resultado_prueba_2": 19,
+  "resultado_prueba_3": 31,
+  "id_lugar_prueba_1": 9,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:05:18.000Z"
+  },
+  "id_lugar_prueba_2": 4,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:01:37.000Z"
+  },
+  "id_lugar_prueba_3": 9,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "19/07/2016"
+},
+{
+  "_id": 49,
+  "id_pruebas_musica": 49,
+  "id_convocatoria": 21,
+  "id_solicitud_admision": 43,
+  "resultado_prueba_1": 12,
+  "resultado_prueba_2": 24,
+  "resultado_prueba_3": 31,
+  "id_lugar_prueba_1": 11,
+  "descripcion_especifica_lugar_prueba_1": "Avenida Tecnológica, Zona Industrial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2015-01-01T00:14:20.000Z"
+  },
+  "id_lugar_prueba_2": 4,
+  "descripcion_especifica_lugar_prueba_2": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-02-27T14:11:26.000Z"
+  },
+  "id_lugar_prueba_3": 5,
+  "descripcion_especifica_lugar_prueba_3": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_3": "04/06/2015"
+},
+{
+  "_id": 50,
+  "id_pruebas_musica": 50,
+  "id_convocatoria": 26,
+  "id_solicitud_admision": 36,
+  "resultado_prueba_1": 28,
+  "resultado_prueba_2": 33,
+  "resultado_prueba_3": 16,
+  "id_lugar_prueba_1": 9,
+  "descripcion_especifica_lugar_prueba_1": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_1": {
+    "$date": "2018-10-31T13:27:22.000Z"
+  },
+  "id_lugar_prueba_2": 7,
+  "descripcion_especifica_lugar_prueba_2": "Calle de la Educación, Barrio Residencial.",
+  "fecha_y_hora_prueba_musica_2": {
+    "$date": "2015-01-01T00:01:37.000Z"
+  },
+  "id_lugar_prueba_3": 10,
+  "descripcion_especifica_lugar_prueba_3": "Calle del Evento, Centro de la Ciudad",
+  "fecha_y_hora_prueba_musica_3": "19/07/2016"
+}]

@@ -1,0 +1,450 @@
+[{
+  "_id": {
+    "id_facultad": 1,
+    "nombre_sede": "Manizales"
+  },
+  "id_facultad": 1,
+  "nombre_sede": "Manizales",
+  "nombre_facultad": "Departamento de Ciencias Exactas"
+},
+{
+  "_id": {
+    "id_facultad": 2,
+    "nombre_sede": "Manizales"
+  },
+  "id_facultad": 2,
+  "nombre_sede": "Manizales",
+  "nombre_facultad": "Departamento de Humanidades"
+},
+{
+  "_id": {
+    "id_facultad": 2,
+    "nombre_sede": "Palmira"
+  },
+  "id_facultad": 2,
+  "nombre_sede": "Palmira",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 3,
+    "nombre_sede": "Caribe"
+  },
+  "id_facultad": 3,
+  "nombre_sede": "Caribe",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+},
+{
+  "_id": {
+    "id_facultad": 3,
+    "nombre_sede": "Manizales"
+  },
+  "id_facultad": 3,
+  "nombre_sede": "Manizales",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+},
+{
+  "_id": {
+    "id_facultad": 3,
+    "nombre_sede": "Palmira"
+  },
+  "id_facultad": 3,
+  "nombre_sede": "Palmira",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 4,
+    "nombre_sede": "Caribe"
+  },
+  "id_facultad": 4,
+  "nombre_sede": "Caribe",
+  "nombre_facultad": "Departamento de Humanidades"
+},
+{
+  "_id": {
+    "id_facultad": 4,
+    "nombre_sede": "Manizales"
+  },
+  "id_facultad": 4,
+  "nombre_sede": "Manizales",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 4,
+    "nombre_sede": "Palmira"
+  },
+  "id_facultad": 4,
+  "nombre_sede": "Palmira",
+  "nombre_facultad": "Departamento de Ciencias Exactas"
+},
+{
+  "_id": {
+    "id_facultad": 4,
+    "nombre_sede": "Tumaco"
+  },
+  "id_facultad": 4,
+  "nombre_sede": "Tumaco",
+  "nombre_facultad": "Departamento de Artes"
+},
+{
+  "_id": {
+    "id_facultad": 5,
+    "nombre_sede": "Amazonia"
+  },
+  "id_facultad": 5,
+  "nombre_sede": "Amazonia",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+},
+{
+  "_id": {
+    "id_facultad": 5,
+    "nombre_sede": "Caribe"
+  },
+  "id_facultad": 5,
+  "nombre_sede": "Caribe",
+  "nombre_facultad": "Departamento de Derecho"
+},
+{
+  "_id": {
+    "id_facultad": 5,
+    "nombre_sede": "Manizales"
+  },
+  "id_facultad": 5,
+  "nombre_sede": "Manizales",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+},
+{
+  "_id": {
+    "id_facultad": 5,
+    "nombre_sede": "Palmira"
+  },
+  "id_facultad": 5,
+  "nombre_sede": "Palmira",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 5,
+    "nombre_sede": "Tumaco"
+  },
+  "id_facultad": 5,
+  "nombre_sede": "Tumaco",
+  "nombre_facultad": "Departamento de Artes"
+},
+{
+  "_id": {
+    "id_facultad": 6,
+    "nombre_sede": "Amazonia"
+  },
+  "id_facultad": 6,
+  "nombre_sede": "Amazonia",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 6,
+    "nombre_sede": "Caribe"
+  },
+  "id_facultad": 6,
+  "nombre_sede": "Caribe",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 6,
+    "nombre_sede": "De La Paz"
+  },
+  "id_facultad": 6,
+  "nombre_sede": "De La Paz",
+  "nombre_facultad": "Departamento de Medicina"
+},
+{
+  "_id": {
+    "id_facultad": 6,
+    "nombre_sede": "Manizales"
+  },
+  "id_facultad": 6,
+  "nombre_sede": "Manizales",
+  "nombre_facultad": "Departamento de Medicina"
+},
+{
+  "_id": {
+    "id_facultad": 6,
+    "nombre_sede": "Palmira"
+  },
+  "id_facultad": 6,
+  "nombre_sede": "Palmira",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 6,
+    "nombre_sede": "Tumaco"
+  },
+  "id_facultad": 6,
+  "nombre_sede": "Tumaco",
+  "nombre_facultad": "Departamento de Medicina"
+},
+{
+  "_id": {
+    "id_facultad": 7,
+    "nombre_sede": "Amazonia"
+  },
+  "id_facultad": 7,
+  "nombre_sede": "Amazonia",
+  "nombre_facultad": "Departamento de Artes"
+},
+{
+  "_id": {
+    "id_facultad": 7,
+    "nombre_sede": "Caribe"
+  },
+  "id_facultad": 7,
+  "nombre_sede": "Caribe",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 7,
+    "nombre_sede": "De La Paz"
+  },
+  "id_facultad": 7,
+  "nombre_sede": "De La Paz",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 7,
+    "nombre_sede": "Medellín"
+  },
+  "id_facultad": 7,
+  "nombre_sede": "Medellín",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 7,
+    "nombre_sede": "Palmira"
+  },
+  "id_facultad": 7,
+  "nombre_sede": "Palmira",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 7,
+    "nombre_sede": "Tumaco"
+  },
+  "id_facultad": 7,
+  "nombre_sede": "Tumaco",
+  "nombre_facultad": "Departamento de Medicina"
+},
+{
+  "_id": {
+    "id_facultad": 8,
+    "nombre_sede": "Amazonia"
+  },
+  "id_facultad": 8,
+  "nombre_sede": "Amazonia",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 8,
+    "nombre_sede": "Caribe"
+  },
+  "id_facultad": 8,
+  "nombre_sede": "Caribe",
+  "nombre_facultad": "Departamento de Artes"
+},
+{
+  "_id": {
+    "id_facultad": 8,
+    "nombre_sede": "De La Paz"
+  },
+  "id_facultad": 8,
+  "nombre_sede": "De La Paz",
+  "nombre_facultad": "Departamento de Derecho"
+},
+{
+  "_id": {
+    "id_facultad": 8,
+    "nombre_sede": "Medellín"
+  },
+  "id_facultad": 8,
+  "nombre_sede": "Medellín",
+  "nombre_facultad": "Departamento de Derecho"
+},
+{
+  "_id": {
+    "id_facultad": 8,
+    "nombre_sede": "Orinoquia"
+  },
+  "id_facultad": 8,
+  "nombre_sede": "Orinoquia",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 8,
+    "nombre_sede": "Tumaco"
+  },
+  "id_facultad": 8,
+  "nombre_sede": "Tumaco",
+  "nombre_facultad": "Departamento de Ciencias Exactas"
+},
+{
+  "_id": {
+    "id_facultad": 9,
+    "nombre_sede": "Amazonia"
+  },
+  "id_facultad": 9,
+  "nombre_sede": "Amazonia",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 9,
+    "nombre_sede": "Bogotá"
+  },
+  "id_facultad": 9,
+  "nombre_sede": "Bogotá",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+},
+{
+  "_id": {
+    "id_facultad": 9,
+    "nombre_sede": "De La Paz"
+  },
+  "id_facultad": 9,
+  "nombre_sede": "De La Paz",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 9,
+    "nombre_sede": "Medellín"
+  },
+  "id_facultad": 9,
+  "nombre_sede": "Medellín",
+  "nombre_facultad": "Departamento de Humanidades"
+},
+{
+  "_id": {
+    "id_facultad": 9,
+    "nombre_sede": "Orinoquia"
+  },
+  "id_facultad": 9,
+  "nombre_sede": "Orinoquia",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 9,
+    "nombre_sede": "Tumaco"
+  },
+  "id_facultad": 9,
+  "nombre_sede": "Tumaco",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+},
+{
+  "_id": {
+    "id_facultad": 10,
+    "nombre_sede": "Amazonia"
+  },
+  "id_facultad": 10,
+  "nombre_sede": "Amazonia",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 10,
+    "nombre_sede": "Bogotá"
+  },
+  "id_facultad": 10,
+  "nombre_sede": "Bogotá",
+  "nombre_facultad": "Departamento de Humanidades"
+},
+{
+  "_id": {
+    "id_facultad": 10,
+    "nombre_sede": "De La Paz"
+  },
+  "id_facultad": 10,
+  "nombre_sede": "De La Paz",
+  "nombre_facultad": "Departamento de Medicina"
+},
+{
+  "_id": {
+    "id_facultad": 10,
+    "nombre_sede": "Medellín"
+  },
+  "id_facultad": 10,
+  "nombre_sede": "Medellín",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 10,
+    "nombre_sede": "Orinoquia"
+  },
+  "id_facultad": 10,
+  "nombre_sede": "Orinoquia",
+  "nombre_facultad": "Departamento de Medicina"
+},
+{
+  "_id": {
+    "id_facultad": 11,
+    "nombre_sede": "Bogotá"
+  },
+  "id_facultad": 11,
+  "nombre_sede": "Bogotá",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 11,
+    "nombre_sede": "Medellín"
+  },
+  "id_facultad": 11,
+  "nombre_sede": "Medellín",
+  "nombre_facultad": "Departamento de Ciencias Naturales"
+},
+{
+  "_id": {
+    "id_facultad": 11,
+    "nombre_sede": "Orinoquia"
+  },
+  "id_facultad": 11,
+  "nombre_sede": "Orinoquia",
+  "nombre_facultad": "Departamento de Lingüística"
+},
+{
+  "_id": {
+    "id_facultad": 12,
+    "nombre_sede": "Bogotá"
+  },
+  "id_facultad": 12,
+  "nombre_sede": "Bogotá",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+},
+{
+  "_id": {
+    "id_facultad": 12,
+    "nombre_sede": "Orinoquia"
+  },
+  "id_facultad": 12,
+  "nombre_sede": "Orinoquia",
+  "nombre_facultad": "Departamento de Derecho"
+},
+{
+  "_id": {
+    "id_facultad": 13,
+    "nombre_sede": "Bogotá"
+  },
+  "id_facultad": 13,
+  "nombre_sede": "Bogotá",
+  "nombre_facultad": "Departamento de Ciencias Economías"
+}]

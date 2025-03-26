@@ -1,0 +1,750 @@
+[{
+  "_id": 1,
+  "id_aspirante": 1,
+  "id_tipo_aspirante": "80460",
+  "nombre_aspirante": "Letha",
+  "apellido_aspirante": "Kleiner",
+  "correo_personal_aspirante": "AbrahamAcevedo@example.com",
+  "fecha_nacimiento": {
+    "$date": "1971-03-09T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 1,
+  "codigo_icfes": -1755502921
+},
+{
+  "_id": 2,
+  "id_aspirante": 2,
+  "id_tipo_aspirante": "19222",
+  "nombre_aspirante": "Kraig",
+  "apellido_aspirante": "Leist",
+  "correo_personal_aspirante": "Jude_High169@example.com",
+  "fecha_nacimiento": {
+    "$date": "1983-10-10T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bogotá",
+  "estrato_apirante": 5,
+  "codigo_icfes": 1146076713
+},
+{
+  "_id": 3,
+  "id_aspirante": 3,
+  "id_tipo_aspirante": "86849",
+  "nombre_aspirante": "Harlan",
+  "apellido_aspirante": "Kleinermann",
+  "correo_personal_aspirante": "Bauer@example.com",
+  "fecha_nacimiento": {
+    "$date": "1990-01-27T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cali",
+  "estrato_apirante": 1,
+  "codigo_icfes": 429500447
+},
+{
+  "_id": 4,
+  "id_aspirante": 4,
+  "id_tipo_aspirante": "08276",
+  "nombre_aspirante": "Brad",
+  "apellido_aspirante": "aulig",
+  "correo_personal_aspirante": "Alarcon@example.com",
+  "fecha_nacimiento": {
+    "$date": "1976-01-25T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 5,
+  "codigo_icfes": 1146076710
+},
+{
+  "_id": 5,
+  "id_aspirante": 5,
+  "id_tipo_aspirante": "23003",
+  "nombre_aspirante": "Enrique",
+  "apellido_aspirante": "Zurbriggen",
+  "correo_personal_aspirante": "gndd9978@example.com",
+  "fecha_nacimiento": {
+    "$date": "1977-05-07T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Barranquilla",
+  "estrato_apirante": 5,
+  "codigo_icfes": 2109967645
+},
+{
+  "_id": 6,
+  "id_aspirante": 6,
+  "id_tipo_aspirante": "68767",
+  "nombre_aspirante": "Bennie",
+  "apellido_aspirante": "Forster",
+  "correo_personal_aspirante": "Palmer_Lofton@example.com",
+  "fecha_nacimiento": {
+    "$date": "1978-11-16T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 4,
+  "codigo_icfes": 429500446
+},
+{
+  "_id": 7,
+  "id_aspirante": 7,
+  "id_tipo_aspirante": "47864",
+  "nombre_aspirante": "Francis",
+  "apellido_aspirante": "chlechter",
+  "correo_personal_aspirante": "Abernathy@example.com",
+  "fecha_nacimiento": {
+    "$date": "2003-04-11T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 6,
+  "codigo_icfes": 3717
+},
+{
+  "_id": 8,
+  "id_aspirante": 8,
+  "id_tipo_aspirante": "44963",
+  "nombre_aspirante": "Nickie",
+  "apellido_aspirante": "Tischbein",
+  "correo_personal_aspirante": "Adaline_Abbott@example.com",
+  "fecha_nacimiento": {
+    "$date": "1994-07-26T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cali",
+  "estrato_apirante": 1,
+  "codigo_icfes": -386069786
+},
+{
+  "_id": 9,
+  "id_aspirante": 9,
+  "id_tipo_aspirante": "15878",
+  "nombre_aspirante": "Boyd",
+  "apellido_aspirante": "Heitsch",
+  "correo_personal_aspirante": "Shayne_Britton589@example.com",
+  "fecha_nacimiento": {
+    "$date": "1970-03-05T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 5,
+  "codigo_icfes": 1575573439
+},
+{
+  "_id": 10,
+  "id_aspirante": 10,
+  "id_tipo_aspirante": "40093",
+  "nombre_aspirante": "Alonzo",
+  "apellido_aspirante": "Abicht",
+  "correo_personal_aspirante": "mxwygtmf_ahjpwboxdy@example.com",
+  "fecha_nacimiento": {
+    "$date": "1970-10-10T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 3,
+  "codigo_icfes": 1146076711
+},
+{
+  "_id": 11,
+  "id_aspirante": 11,
+  "id_tipo_aspirante": "75351",
+  "nombre_aspirante": "Reed",
+  "apellido_aspirante": "Franke",
+  "correo_personal_aspirante": "Steve.A.Pape@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1981-03-14T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bogotá",
+  "estrato_apirante": 1,
+  "codigo_icfes": 3715
+},
+{
+  "_id": 12,
+  "id_aspirante": 12,
+  "id_tipo_aspirante": "34115",
+  "nombre_aspirante": "Cory",
+  "apellido_aspirante": "Meier",
+  "correo_personal_aspirante": "Ivan.Southern98@example.com",
+  "fecha_nacimiento": {
+    "$date": "1970-01-05T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 5,
+  "codigo_icfes": -1335478439
+},
+{
+  "_id": 13,
+  "id_aspirante": 13,
+  "id_tipo_aspirante": "89169",
+  "nombre_aspirante": "Abbie",
+  "apellido_aspirante": "chmidt",
+  "correo_personal_aspirante": "Darell_Centeno27@example.com",
+  "fecha_nacimiento": {
+    "$date": "1975-07-24T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 3,
+  "codigo_icfes": 3714
+},
+{
+  "_id": 14,
+  "id_aspirante": 14,
+  "id_tipo_aspirante": "37957",
+  "nombre_aspirante": "Lazaro",
+  "apellido_aspirante": "Leitner",
+  "correo_personal_aspirante": "Shanta.Beaver89@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 3,
+  "codigo_icfes": 3716
+},
+{
+  "_id": 15,
+  "id_aspirante": 15,
+  "id_tipo_aspirante": "05398",
+  "nombre_aspirante": "Danielle",
+  "apellido_aspirante": "Kleinmann",
+  "correo_personal_aspirante": "GregoryMurrell@example.com",
+  "fecha_nacimiento": {
+    "$date": "1992-08-09T04:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cúcuta",
+  "estrato_apirante": 6,
+  "codigo_icfes": -386069785
+},
+{
+  "_id": 16,
+  "id_aspirante": 16,
+  "id_tipo_aspirante": "69532",
+  "nombre_aspirante": "Gregorio",
+  "apellido_aspirante": "Heldman",
+  "correo_personal_aspirante": "rfgxqoso9811@example.com",
+  "fecha_nacimiento": {
+    "$date": "1993-05-31T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 5,
+  "codigo_icfes": -815566513
+},
+{
+  "_id": 17,
+  "id_aspirante": 17,
+  "id_tipo_aspirante": "93261",
+  "nombre_aspirante": "Monty",
+  "apellido_aspirante": "Franz",
+  "correo_personal_aspirante": "Violette_Maxey368@example.com",
+  "fecha_nacimiento": {
+    "$date": "2001-01-08T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Barranquilla",
+  "estrato_apirante": 1,
+  "codigo_icfes": 3712
+},
+{
+  "_id": 18,
+  "id_aspirante": 18,
+  "id_tipo_aspirante": "76457",
+  "nombre_aspirante": "Abby",
+  "apellido_aspirante": "Henkel",
+  "correo_personal_aspirante": "Sanderson@example.com",
+  "fecha_nacimiento": {
+    "$date": "1972-07-30T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 5,
+  "codigo_icfes": -905981706
+},
+{
+  "_id": 19,
+  "id_aspirante": 19,
+  "id_tipo_aspirante": "33589",
+  "nombre_aspirante": "Evelin",
+  "apellido_aspirante": "Tischler",
+  "correo_personal_aspirante": "Dennis@example.com",
+  "fecha_nacimiento": {
+    "$date": "1998-06-07T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 4,
+  "codigo_icfes": 429500445
+},
+{
+  "_id": 20,
+  "id_aspirante": 20,
+  "id_tipo_aspirante": "32014",
+  "nombre_aspirante": "Earline",
+  "apellido_aspirante": "eiper",
+  "correo_personal_aspirante": "Shifflett@example.com",
+  "fecha_nacimiento": {
+    "$date": "1970-03-24T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 3,
+  "codigo_icfes": 1146076712
+},
+{
+  "_id": 21,
+  "id_aspirante": 21,
+  "id_tipo_aspirante": "88231",
+  "nombre_aspirante": "Viviana",
+  "apellido_aspirante": "Meissner",
+  "correo_personal_aspirante": "Abbie.Watts@example.com",
+  "fecha_nacimiento": {
+    "$date": "2003-08-25T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 5,
+  "codigo_icfes": 429500441
+},
+{
+  "_id": 22,
+  "id_aspirante": 22,
+  "id_tipo_aspirante": "16874",
+  "nombre_aspirante": "Chae",
+  "apellido_aspirante": "chmitz",
+  "correo_personal_aspirante": "AlessandraNMckenzie72@example.com",
+  "fecha_nacimiento": {
+    "$date": "1999-07-04T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 2,
+  "codigo_icfes": -1335478441
+},
+{
+  "_id": 23,
+  "id_aspirante": 23,
+  "id_tipo_aspirante": "01414",
+  "nombre_aspirante": "Delta",
+  "apellido_aspirante": "Tissen",
+  "correo_personal_aspirante": "mivxztrm_txjxxsw@example.com",
+  "fecha_nacimiento": {
+    "$date": "1986-01-20T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Barranquilla",
+  "estrato_apirante": 5,
+  "codigo_icfes": 429500443
+},
+{
+  "_id": 24,
+  "id_aspirante": 24,
+  "id_tipo_aspirante": "51627",
+  "nombre_aspirante": "Toney",
+  "apellido_aspirante": "Buchmeyer",
+  "correo_personal_aspirante": "Killian@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1986-08-09T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 5,
+  "codigo_icfes": 3711
+},
+{
+  "_id": 25,
+  "id_aspirante": 25,
+  "id_tipo_aspirante": "82218",
+  "nombre_aspirante": "Wynell",
+  "apellido_aspirante": "Adler",
+  "correo_personal_aspirante": "Maness@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1970-11-09T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cali",
+  "estrato_apirante": 6,
+  "codigo_icfes": 1575573440
+},
+{
+  "_id": 26,
+  "id_aspirante": 26,
+  "id_tipo_aspirante": "38423",
+  "nombre_aspirante": "Ashley",
+  "apellido_aspirante": "Buchner",
+  "correo_personal_aspirante": "KimberlieCrocker@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1979-03-06T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cúcuta",
+  "estrato_apirante": 3,
+  "codigo_icfes": -1755502920
+},
+{
+  "_id": 27,
+  "id_aspirante": 27,
+  "id_tipo_aspirante": "55629",
+  "nombre_aspirante": "Ressie",
+  "apellido_aspirante": "chneider",
+  "correo_personal_aspirante": "oxdngcmz8118@example.com",
+  "fecha_nacimiento": {
+    "$date": "1994-07-11T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cali",
+  "estrato_apirante": 5,
+  "codigo_icfes": 1146076709
+},
+{
+  "_id": 28,
+  "id_aspirante": 28,
+  "id_tipo_aspirante": "76086",
+  "nombre_aspirante": "Shane",
+  "apellido_aspirante": "Totleben",
+  "correo_personal_aspirante": "Tiffanie.Romero27@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1970-03-29T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 2,
+  "codigo_icfes": 2109967647
+},
+{
+  "_id": 29,
+  "id_aspirante": 29,
+  "id_tipo_aspirante": "96465",
+  "nombre_aspirante": "Raleigh",
+  "apellido_aspirante": "Albrecht",
+  "correo_personal_aspirante": "Gable@example.com",
+  "fecha_nacimiento": {
+    "$date": "1991-08-04T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cali",
+  "estrato_apirante": 5,
+  "codigo_icfes": -905981707
+},
+{
+  "_id": 30,
+  "id_aspirante": 30,
+  "id_tipo_aspirante": "24936",
+  "nombre_aspirante": "Jean",
+  "apellido_aspirante": "erl",
+  "correo_personal_aspirante": "Myrtle_Bernard@example.com",
+  "fecha_nacimiento": {
+    "$date": "1970-04-08T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 2,
+  "codigo_icfes": 3710
+},
+{
+  "_id": 31,
+  "id_aspirante": 31,
+  "id_tipo_aspirante": "85820",
+  "nombre_aspirante": "Roosevelt",
+  "apellido_aspirante": "Meltzer",
+  "correo_personal_aspirante": "Raynor8@example.com",
+  "fecha_nacimiento": {
+    "$date": "1977-01-31T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cúcuta",
+  "estrato_apirante": 1,
+  "codigo_icfes": 429500442
+},
+{
+  "_id": 32,
+  "id_aspirante": 32,
+  "id_tipo_aspirante": "48781",
+  "nombre_aspirante": "Alanna",
+  "apellido_aspirante": "chneidermann",
+  "correo_personal_aspirante": "Sipes449@example.com",
+  "fecha_nacimiento": {
+    "$date": "1994-10-08T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cúcuta",
+  "estrato_apirante": 4,
+  "codigo_icfes": -1
+},
+{
+  "_id": 33,
+  "id_aspirante": 33,
+  "id_tipo_aspirante": "84404",
+  "nombre_aspirante": "Lilliana",
+  "apellido_aspirante": "Treviranus",
+  "correo_personal_aspirante": "Batson@example.com",
+  "fecha_nacimiento": {
+    "$date": "2011-04-06T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cali",
+  "estrato_apirante": 1,
+  "codigo_icfes": 429500444
+},
+{
+  "_id": 34,
+  "id_aspirante": 34,
+  "id_tipo_aspirante": "62008",
+  "nombre_aspirante": "Amiee",
+  "apellido_aspirante": "choll",
+  "correo_personal_aspirante": "ReaReyna391@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1979-11-27T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 1,
+  "codigo_icfes": 1575573443
+},
+{
+  "_id": 35,
+  "id_aspirante": 35,
+  "id_tipo_aspirante": "94299",
+  "nombre_aspirante": "Rene",
+  "apellido_aspirante": "Lemm",
+  "correo_personal_aspirante": "SeeleyJ@example.com",
+  "fecha_nacimiento": {
+    "$date": "2014-08-12T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bogotá",
+  "estrato_apirante": 1,
+  "codigo_icfes": 3713
+},
+{
+  "_id": 36,
+  "id_aspirante": 36,
+  "id_tipo_aspirante": "47426",
+  "nombre_aspirante": "Demarcus",
+  "apellido_aspirante": "Büchner",
+  "correo_personal_aspirante": "AbbieAbel@example.com",
+  "fecha_nacimiento": {
+    "$date": "1973-07-04T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Barranquilla",
+  "estrato_apirante": 5,
+  "codigo_icfes": 2109967646
+},
+{
+  "_id": 37,
+  "id_aspirante": 37,
+  "id_tipo_aspirante": "63555",
+  "nombre_aspirante": "Ashley",
+  "apellido_aspirante": "Altmann",
+  "correo_personal_aspirante": "Monty.Swan5@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1970-05-08T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Barranquilla",
+  "estrato_apirante": 5,
+  "codigo_icfes": -1755502918
+},
+{
+  "_id": 38,
+  "id_aspirante": 38,
+  "id_tipo_aspirante": "09892",
+  "nombre_aspirante": "Abel",
+  "apellido_aspirante": "Trübner",
+  "correo_personal_aspirante": "SteinerK@example.com",
+  "fecha_nacimiento": {
+    "$date": "1995-10-03T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 6,
+  "codigo_icfes": -1335478440
+},
+{
+  "_id": 39,
+  "id_aspirante": 39,
+  "id_tipo_aspirante": "03167",
+  "nombre_aspirante": "Ali",
+  "apellido_aspirante": "Kleist",
+  "correo_personal_aspirante": "Daily37@example.com",
+  "fecha_nacimiento": {
+    "$date": "1988-07-31T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 2,
+  "codigo_icfes": -815566512
+},
+{
+  "_id": 40,
+  "id_aspirante": 40,
+  "id_tipo_aspirante": "93063",
+  "nombre_aspirante": "Clark",
+  "apellido_aspirante": "Lengefeld",
+  "correo_personal_aspirante": "AddieTrice329@example.com",
+  "fecha_nacimiento": {
+    "$date": "1984-02-24T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cúcuta",
+  "estrato_apirante": 6,
+  "codigo_icfes": -905981709
+},
+{
+  "_id": 41,
+  "id_aspirante": 41,
+  "id_tipo_aspirante": "43815",
+  "nombre_aspirante": "Adam",
+  "apellido_aspirante": "Klemperer",
+  "correo_personal_aspirante": "Caballero313@example.com",
+  "fecha_nacimiento": {
+    "$date": "1993-09-19T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 1,
+  "codigo_icfes": -905981710
+},
+{
+  "_id": 42,
+  "id_aspirante": 42,
+  "id_tipo_aspirante": "17692",
+  "nombre_aspirante": "Gayle",
+  "apellido_aspirante": "chön",
+  "correo_personal_aspirante": "uvrguf247@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "2004-03-24T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cartagena",
+  "estrato_apirante": 5,
+  "codigo_icfes": 1146076708
+},
+{
+  "_id": 43,
+  "id_aspirante": 43,
+  "id_tipo_aspirante": "70076",
+  "nombre_aspirante": "Kristy",
+  "apellido_aspirante": "Lenz",
+  "correo_personal_aspirante": "Jewel.Albers24@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1991-12-13T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 2,
+  "codigo_icfes": -815566511
+},
+{
+  "_id": 44,
+  "id_aspirante": 44,
+  "id_tipo_aspirante": "22225",
+  "nombre_aspirante": "Ryan",
+  "apellido_aspirante": "Klenze",
+  "correo_personal_aspirante": "Oliva_Caskey572@example.com",
+  "fecha_nacimiento": {
+    "$date": "2018-01-09T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Medellín",
+  "estrato_apirante": 1,
+  "codigo_icfes": -905981708
+},
+{
+  "_id": 45,
+  "id_aspirante": 45,
+  "id_tipo_aspirante": "99070",
+  "nombre_aspirante": "Marjory",
+  "apellido_aspirante": "Frenzel",
+  "correo_personal_aspirante": "Nannie_Farr@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1970-05-22T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cúcuta",
+  "estrato_apirante": 6,
+  "codigo_icfes": -386069787
+},
+{
+  "_id": 46,
+  "id_aspirante": 46,
+  "id_tipo_aspirante": "62888",
+  "nombre_aspirante": "Christopher",
+  "apellido_aspirante": "Lerch",
+  "correo_personal_aspirante": "mcvgy02@example.com",
+  "fecha_nacimiento": {
+    "$date": "2015-04-21T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 4,
+  "codigo_icfes": 1575573441
+},
+{
+  "_id": 47,
+  "id_aspirante": 47,
+  "id_tipo_aspirante": "45043",
+  "nombre_aspirante": "Abraham",
+  "apellido_aspirante": "Ude",
+  "correo_personal_aspirante": "Mcnamara616@example.com",
+  "fecha_nacimiento": {
+    "$date": "2002-02-23T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 5,
+  "codigo_icfes": -1755502919
+},
+{
+  "_id": 48,
+  "id_aspirante": 48,
+  "id_tipo_aspirante": "70580",
+  "nombre_aspirante": "Lavelle",
+  "apellido_aspirante": "Klinger",
+  "correo_personal_aspirante": "AllenDupree@example.com",
+  "fecha_nacimiento": {
+    "$date": "2005-06-19T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bucaramanga",
+  "estrato_apirante": 2,
+  "codigo_icfes": 1575573442
+},
+{
+  "_id": 49,
+  "id_aspirante": 49,
+  "id_tipo_aspirante": "02368",
+  "nombre_aspirante": "Brigida",
+  "apellido_aspirante": "feifer",
+  "correo_personal_aspirante": "Rudolph_Abel@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1983-04-22T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Bogotá",
+  "estrato_apirante": 1,
+  "codigo_icfes": -1335478437
+},
+{
+  "_id": 50,
+  "id_aspirante": 50,
+  "id_tipo_aspirante": "84763",
+  "nombre_aspirante": "Cristobal",
+  "apellido_aspirante": "Melzer",
+  "correo_personal_aspirante": "Diehl764@nowhere.com",
+  "fecha_nacimiento": {
+    "$date": "1997-02-22T05:00:00.000Z"
+  },
+  "departamento_aspirante": "",
+  "ciudad_aspirante": "Cali",
+  "estrato_apirante": 5,
+  "codigo_icfes": -1335478438
+}]
